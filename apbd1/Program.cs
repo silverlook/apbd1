@@ -1,12 +1,3 @@
-﻿using System;
+﻿using apbd1;
 
-namespace apbd1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+var app = new App();
